@@ -1,7 +1,6 @@
 # Global Superstore Excel Data Analysis
 
 ## Project Overview
-
 This project analyzes the Global Superstore dataset using Microsoft Excel. The objective is to perform data cleaning, basic Excel calculations, Pivot Table analysis, revenue analysis, and descriptive statistics.
 
 # Tools Used
@@ -47,5 +46,4 @@ The dataset was checked for:
 
 
 # Objective
-
-* The objective of this project is to demonstrate practical Microsoft Excel skills for data analysis, including data cleaning, formula-based calculations, Pivot Tables, data summarization, revenue analysis, and descriptive statistics.
+The objective of this project is to demonstrate practical Microsoft Excel skills for data analysis, including data cleaning, formula-based calculations, Pivot Tables, data summarization, revenue analysis, and descriptive statistics.
