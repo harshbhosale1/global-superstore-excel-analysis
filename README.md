@@ -45,10 +45,6 @@ The dataset was checked for:
 * Data consistency
 * Proper formatting of identifier fields such as Order ID, Customer ID, and Product ID
 
-# Project File
-The complete Excel analysis is available in:
-
-global_superstore.xlsx
 
 # Objective
 
